@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonteyHall.Web", "MonteyHal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MontyHall.Tests", "MontyHall.Tests\MontyHall.Tests.csproj", "{6F11D440-28C6-47DC-909B-03A3B63D7FF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{19189B23-2B39-44F0-9C75-BEDD052D5BCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6F11D440-28C6-47DC-909B-03A3B63D7FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F11D440-28C6-47DC-909B-03A3B63D7FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F11D440-28C6-47DC-909B-03A3B63D7FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19189B23-2B39-44F0-9C75-BEDD052D5BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19189B23-2B39-44F0-9C75-BEDD052D5BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19189B23-2B39-44F0-9C75-BEDD052D5BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19189B23-2B39-44F0-9C75-BEDD052D5BCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

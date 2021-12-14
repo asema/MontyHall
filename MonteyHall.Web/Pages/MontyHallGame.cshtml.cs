@@ -1,8 +1,8 @@
 using System.Threading.Tasks;
+using Domain;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using MonteyHall.Web.Model;
-using MonteyHall.Web.Utility;
 
 namespace MonteyHall.Web.Pages
 {
